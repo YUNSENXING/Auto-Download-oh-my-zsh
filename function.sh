@@ -21,3 +21,11 @@ sed -i 's|ZSH_THEME=".*"|ZSH_THEME="ys"|' ~/.zshrc
 source ~/.zshrc
 
 echo "操作完成！"
+
+
+
+# 切换bash chsh -s /bin/bash
+# 切换zsh  chsh -s /bin/zsh
+#
+#
+
